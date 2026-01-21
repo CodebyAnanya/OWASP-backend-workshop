@@ -4,5 +4,5 @@
 window.ENV = {
     // Replace this with your actual Railway backend URL
 
-    // BACKEND_URL: 'your_url'
+     BACKEND_URL: 'https://owasp-backend-workshop-production.up.railway.app'
 };
